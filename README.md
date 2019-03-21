@@ -1,2 +1,2 @@
 # GitExample
-Example
+Example for Version 2
